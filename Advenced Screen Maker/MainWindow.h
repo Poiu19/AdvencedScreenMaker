@@ -70,7 +70,7 @@ namespace Advenced_Screen_Maker {
 			this->Controls->Add(this->exitButton);
 			this->FormBorderStyle = System::Windows::Forms::FormBorderStyle::Fixed3D;
 			this->Name = L"MainWindow";
-			this->Text = L"MainWindow";
+			this->Text = L"Alpha";
 			this->ResumeLayout(false);
 
 		}
